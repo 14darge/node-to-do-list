@@ -1,6 +1,6 @@
 ## Console application 
 
-This a course excersice 
+This is a course excersice 
 
 ```
 npm install
